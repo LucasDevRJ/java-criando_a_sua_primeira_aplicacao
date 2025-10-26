@@ -20,5 +20,7 @@ public class Perfil {
 
         System.out.printf("\nOlá, %s!\n", nome);
         System.out.println("Tudo bem?");
+
+        entrada.close();
     }
 }
