@@ -47,5 +47,7 @@ public class Area {
             default:
                 System.out.println("Opção inválida.");
         }
+
+        entrada.close();
     }
 }
