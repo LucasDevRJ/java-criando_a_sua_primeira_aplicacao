@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Loop {
+public class LoopFor {
     public static void main(String[] args) {
         double nota = 0.0;
         double media = 0.0;
